@@ -1,1 +1,1 @@
-Collapsing And Expanding Toolbar
+Collapsing/Expanding and hiding/showing Toolbar while scrolling
