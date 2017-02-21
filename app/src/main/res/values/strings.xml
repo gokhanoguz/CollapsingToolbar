@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">CollapsingToolbar</string>
+
+    <string name="collapse_bar_example">Collapse Bar Example</string>
+    <string name="hide_bar_example">Hide Bar Example</string>
 </resources>
